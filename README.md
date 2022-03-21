@@ -2,7 +2,7 @@
 
 # Task Description: 
 
-Write a program to calculate your BMI and give weight status.  Frontend and Backend Developed
+Write a program to calculate your BMI and give weight status.  Frontend and Backend Developed (code can be run in test folder)
 
 Body Mass Index (BMI) is an internationally used measurement to check if you are a healthy weight for your height. The metric bmi formula accepts weight in kilograms and height in Feet and cm.
 
